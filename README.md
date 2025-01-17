@@ -1,7 +1,10 @@
 # SteamTotp
 A .NET 9 library to generate Steam TOTP codes
 
-Usage:
+## NuGet
+Get SteamTotp on NuGet: https://www.nuget.org/packages/SteamTotp
+
+## Usage
 ```cs
 using JeremyEspresso.SteamTotp;
 
